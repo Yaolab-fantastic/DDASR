@@ -18,12 +18,12 @@ ADNI1 can be accessed from official. https://adni.loni.usc.edu/
 ## Results presentation
 ### Comparison with the state-of-the-arts
 We perform super-resolution on the ADNI1 image and compare it with other models to achieve SOTA.
-![result](figures/fig_SR_SOTA.png)!]
+![result](figures/fig_SR_SOTA.pdf)!]
 
 ### Our DSN Synthesizes More Realistic LR Image
 We compared the downsampling network and proved that our downsampling network can generate more realistic LR images.
 
-![reults_2](figures/fig_DS.png)
+![reults_2](figures/fig_DS.pdf)
 
 ### Other results
 
