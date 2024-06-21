@@ -13,7 +13,7 @@ Our proposed model is trained on 2 NVIDIA GeForce RTX 3090 GPUs with 48 GB memor
 
 ## Dataset
 
-ADNI1 can be accessed from official. https://adni.loni.usc.edu/
+ADNI1 can be accessed from [here](https://adni.loni.usc.edu/).
 
 ## Results presentation
 ### Comparison with the state-of-the-arts
@@ -39,7 +39,7 @@ We also conducted ablation experiments on the model to verify the effectiveness 
 
 ### Hyper parameters
 
-The hyper parameters will be released after the paper is accepted.
+Detailed hyperparameter settings will be made public after the article is accepted.
 
 ### Test
 
