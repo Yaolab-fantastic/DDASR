@@ -43,7 +43,6 @@ Detailed hyperparameter settings will be made public after the article is accept
 
 ### Test
 
-Pretrained models:
 
 **DSN Test Command:**
 
