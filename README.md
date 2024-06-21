@@ -9,7 +9,7 @@ High detail and fast magnetic resonance imaging (MRI) sequences are highly deman
 
 ## Implementation details
 
-Our proposed model is trained on 2 NVIDIA GeForce RTX 3090 GPUs with 48 GB memory using the PyTorch.
+Proposed model is trained on 2 NVIDIA GeForce RTX 3090 GPUs with 48 GB memory using the PyTorch.
 
 ## Dataset
 
